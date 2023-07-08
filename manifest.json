@@ -1,0 +1,11 @@
+{
+	"id": "blogger-publisher",
+	"name": "Google Blogger Publisher",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "This plugin publishes your notes to google blogger platform",
+	"author": "Obsidian",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
